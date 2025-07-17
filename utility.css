@@ -1,0 +1,30 @@
+.border{
+    border: 2px solid red;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.item-align{
+    align-items: center;
+}
+.rounded{
+    border-radius: 7px;
+}
+.m-1{
+    margin: 5px;
+}
+.m-t{
+    margin-top: 8px;
+}
+.p-t{
+    padding-top: 5px;
+}
+.fit-content{
+    height: fit-content;
+}
+.gap{
+    gap: 14px;
+}
